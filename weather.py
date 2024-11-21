@@ -6,7 +6,7 @@ import requests
 
 # Function to fetch weather data
 def fetch_weather():
-    api_key = "7e455cbd3a2e4004bfc135437241711"  # Replace with your WeatherAPI key
+    api_key = ""  # Replace with your WeatherAPI key
     city = city_entry.get().strip()
     if not city:
         messagebox.showerror("Input Error", "Please enter a city name!")
