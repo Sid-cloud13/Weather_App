@@ -53,8 +53,11 @@
 
 ## 🖥️ Application Preview
 
-![Application Screenshot](screenshot_placeholder.png)  
-*Sample view of the Weather Data Fetcher application*
+### Interface
+![Interface](./img/Interface.png)
+
+### Desired Result
+![result](./img/Result.png)
 
 ---
 
